@@ -41,20 +41,6 @@
 </tr>
 </table>
 
-## My Statistics:
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iOSDila&theme=radical&langs_count=10&card_width=500px" alt="Most Used Languages">
-    </td>
-    <td>
-      <a href="https://github.com/iOSDila/">
-        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/iOSDila?cardType=level&theme=radical&preferLogin=false" alt="GitHub Stats">
-      </a>
-    </td>
-  </tr>
-</table>
 
 <div class="container">
   <h2>🔥 Contributions:</h2>
