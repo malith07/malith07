@@ -63,6 +63,7 @@
 </div>
 
 ## 🌐 Connect with me:
+
 <div style="text-align: center;">
   [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/D.K.Pubudu.Dilshan/)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pubududilshan/)
@@ -74,6 +75,7 @@
 </div>
 
  ## 🛠️ Languages and Tools:
+ 
 <div style="text-align: center;">
 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -101,7 +103,7 @@
   [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7CA00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
 </div>
 
-
+</div>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
