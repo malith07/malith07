@@ -45,7 +45,6 @@
 
 <table>
   <tr>
-
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iOSDila&theme=radical&langs_count=10&card_width=500px" alt="Most Used Languages">
     </td>
@@ -62,50 +61,48 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=scar1109&theme=radical" alt="GitHub Streak">
 </div>
 
-  ## 🌐 Connect with me:
-<div style="text-align: center;">
-
-
-  [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/D.K.Pubudu.Dilshan/)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pubududilshan/)
-  [![Behance](https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/pubududilshan)
-  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dila_z_97/)
-  [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pubududilshan4769)
-  [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tech_with_dila)
-  [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94713620406)
+  <h2>🌐 Connect with Me:</h2>
+  <p align="center">
+    <a href="https://www.facebook.com/D.K.Pubudu.Dilshan/"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/></a>
+    <a href="https://www.linkedin.com/in/pubududilshan/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+    <a href="https://www.behance.net/pubududilshan"><img src="https://img.icons8.com/color/48/000000/behance.png" alt="Behance"/></a>
+    <a href="https://www.instagram.com/dila_z_97/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
+    <a href="https://www.youtube.com/@pubududilshan4769"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/></a>
+    <a href="https://www.tiktok.com/@tech_with_dila"><img src="https://img.icons8.com/color/48/000000/tiktok.png" alt="TikTok"/></a>
+    <a href="https://wa.me/94713620406"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"/></a>
+  </p>
 </div>
 
-  ## 🛠️ Languages and Tools:
-<div style="text-align: center;">
-
-
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![VMware](https://img.shields.io/badge/VMware-%23607080.svg?style=for-the-badge&logo=vmware&logoColor=white)
-  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![UI/UX](https://img.shields.io/badge/UI%2FUX-%23E34F26.svg?style=for-the-badge&logo=ux&logoColor=white)
+<div style="text-align: center; margin-top: 20px;">
+  <h2>🛠️ Languages and Tools:</h2>
+  <p align="center">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>
+    <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+    <img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift"/>
+    <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin"/>
+    <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
+    <img src="https://img.icons8.com/color/48/000000/vmware.png" alt="VMware"/>
+    <img src="https://img.icons8.com/color/48/000000/azure.png" alt="Azure"/>
+    <img src="https://img.icons8.com/color/48/000000/adobe-xd.png" alt="Adobe XD"/>
+    <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
+    <img src="https://img.icons8.com/color/48/000000/design.png" alt="UI/UX"/>
+  </p>
 </div>
 
- ## ☕ Support:
-
-<div style="text-align: center;">
- 
-
-  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7CA00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
-</div>
-
+<div style="text-align: center; margin-top: 20px;">
+  <h2>☕ Support:</h2>
+ <p align="center">
+    <a href="https://ko-fi.com/pubududilshan" target="_blank">
+      <img src="https://img.shields.io/badge/Support%20Me%20on%20Ko--fi-29ABE0?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
+    </a>
+  </p>
 </div>
 
 <p align="center">
