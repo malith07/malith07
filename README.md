@@ -11,9 +11,6 @@
   <div style="display: flex; flex-direction: column; align-items: center;">
     <!-- First Language Stats -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iOSDila&layout=compact&theme=dracula" alt="Top Languages">
-    
-    <!-- Second Language Stats -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iOSDila&layout=compact&theme=dracula" alt="Top Languages">
   </div>
 </div>
 ## 🔥 Badges:
