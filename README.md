@@ -6,9 +6,16 @@
 ## 🔥 Streak Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iOSDila&theme=highcontrast)
 
-## 🔥 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iOSDila&layout=compact&theme=dracula)
-
+<div class="container">
+  <h2>🔥 Most Used Languages:</h2>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <!-- First Language Stats -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iOSDila&layout=compact&theme=dracula" alt="Top Languages">
+    
+    <!-- Second Language Stats -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iOSDila&layout=compact&theme=dracula" alt="Top Languages">
+  </div>
+</div>
 ## 🔥 Badges:
 ![Followers](https://img.shields.io/github/followers/iOSDila?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/iOSDila?label=Stars&style=social)
