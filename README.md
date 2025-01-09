@@ -12,3 +12,9 @@
 ## 🔥 Badges:
 ![Followers](https://img.shields.io/github/followers/iOSDila?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/iOSDila?label=Stars&style=social)
+
+
+<div>
+  <h3>Developer GIF</h3>
+  <img src="https://media.tenor.com/8Bzuv_K7lWQAAAAC/developer-developers.gif" width="500" alt="Developer at Work GIF">
+</div>
